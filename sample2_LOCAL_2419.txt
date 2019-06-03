@@ -1,0 +1,4 @@
+this is sample2 from master branch
+
+his is sample2 from feature1 branch.
+
